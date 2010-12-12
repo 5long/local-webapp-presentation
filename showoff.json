@@ -1,0 +1,11 @@
+{ "name": "Local Webapp for Ourselves"
+, "sections": [
+    {"section": "intro"}
+  , {"section": "about-me"}
+  , {"section": "lacking-tools"}
+  , {"section": "requirements"}
+  , {"section": "existing-tools"}
+  , {"section": "local-webapp"}
+  , {"section": "end"}
+  ]
+}
