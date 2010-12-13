@@ -4,4 +4,4 @@
 
 * Browser plugin/extension
 * IDE-ish
-* Standalone CLI stuff
+* Standalone stuff (mostly CLI)
