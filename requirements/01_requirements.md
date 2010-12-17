@@ -12,6 +12,7 @@
 
 # And I Need More
 
+* Fast
 * Works on mobile device
 * Open & free
 * Easy to write & use
