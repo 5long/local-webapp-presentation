@@ -3,8 +3,8 @@
     {"section": "intro"}
   , {"section": "about-me"}
   , {"section": "lacking-tools"}
-  , {"section": "requirements"}
   , {"section": "existing-tools"}
+  , {"section": "requirements"}
   , {"section": "local-webapp"}
   , {"section": "end"}
   ]
