@@ -1,16 +1,3 @@
-!SLIDE
-
-# Examples
-
-!SLIDE bullets incremental
-
-# Yeti
-
-* Serve test files via HTTP
-* Launch browser
-* Inject JS
-* Generate report
-
 !SLIDE bullets incremental
 
 # Roil
